@@ -1,0 +1,14 @@
+.App {
+	text-align: center;
+}
+
+input {
+	display: block;
+}
+
+.register-form {
+	display: flex;
+	justify-content: center;
+}
+
+/* Dashboard component */
